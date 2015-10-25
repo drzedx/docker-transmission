@@ -17,4 +17,4 @@ User gid:    $(id -g abc)
 -----------------------------------
 "
 chown abc:abc /config
-chown abc:abc /download
+chown abc:abc /downloads
