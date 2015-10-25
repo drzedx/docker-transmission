@@ -13,4 +13,4 @@ RUN useradd -u 911 -U -s /bin/false abc && usermod -G users abc && mkdir -p /dow
 
 VOLUME ["/config", "/download"]
 
-EXPOSE 
+EXPOSE 9091 51413
